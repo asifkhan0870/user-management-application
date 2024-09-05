@@ -2,6 +2,8 @@
   "name": "management-interface-page",
   "version": "0.1.0",
   "private": true,
+  "typescript": "4.9.5"
+,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
